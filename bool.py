@@ -1,0 +1,5 @@
+print(5>3)
+print(5<3)
+print(True == 1)
+print(False == 1)
+print(True + False +6)
